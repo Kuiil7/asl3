@@ -1,4 +1,4 @@
-import Video from './components/Video.js'
+import Home from './components/Home.js'
 
 import React, { Component } from 'react';
 
@@ -13,7 +13,7 @@ class App extends Component {
       <div className="App">
   
       
-     <Video />  
+     <Home />  
 
 
     </div>  
